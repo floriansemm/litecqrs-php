@@ -1,5 +1,5 @@
 {
-    "name": "beberlei/lite-cqrs",
+    "name": "floriansemm/lite-cqrs",
     "description": "Simple Command-Query-Responsibility-Segregation library.",
     "license": "MIT",
     "autoload": {
